@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hello, feel free to see some projects I did. Some projects are private, as they are important projects
+Feel free to see some projects I did. Some projects are private, as they are important projects
 
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gobsruiz)](https://github.com/anuraghazra/github-readme-stats)
