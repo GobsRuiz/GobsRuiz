@@ -11,13 +11,11 @@ Portfolio: https://gabriel-eduardo-ruiz-portifolio-9jz1o2yus.vercel.app/html/hom
 My resume: https://my-resume-theta.vercel.app/
 <br>
 Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
-   <br>
-   DG: https://gobs-front-end-projects.vercel.app/DG/html/home.html
-   <br>  			                  
+<br>
+&nbsp; DG: https://gobs-front-end-projects.vercel.app/DG/html/home.html
+<br>
    Iridium: https://gobs-front-end-projects.vercel.app/iridium/html/home.html
-   <br> 
    Appx Lander: https://gobs-front-end-projects.vercel.app/appxlander/html/home.html
-   <br>
    ...
 }
 
