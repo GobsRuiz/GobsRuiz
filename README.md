@@ -11,8 +11,11 @@ My resume: https://my-resume-theta.vercel.app/
 
 Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
   DG: https://gobs-front-end-projects.vercel.app/DG/html/home.html
+  
   Iridium: https://gobs-front-end-projects.vercel.app/iridium/html/home.html
+  
   Appx Lander: https://gobs-front-end-projects.vercel.app/appxlander/html/home.html
+  
   ...
 }
 
