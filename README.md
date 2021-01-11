@@ -3,10 +3,11 @@
 
 Feel free to see some projects I did. Some projects are private, as they are important projects.
 
+
 Projects hosted at Vercel:
 
 Portfolio: https://gabriel-eduardo-ruiz-portifolio-9jz1o2yus.vercel.app/html/home.html
-
+<br>
 My resume: https://my-resume-theta.vercel.app/
 
 Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
