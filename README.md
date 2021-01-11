@@ -1,7 +1,18 @@
 ## Hi there 👋
 
 
-Feel free to see some projects I did. Some projects are private, as they are important projects
+Feel free to see some projects I did. Some projects are private, as they are important projects.
+
+Projects hosted at Vercel:
+
+Portfolio: https://gabriel-eduardo-ruiz-portifolio-9jz1o2yus.vercel.app/html/home.html
+My resume: https://my-resume-theta.vercel.app/
+Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
+  DG: https://gobs-front-end-projects.vercel.app/DG/html/home.html
+  Iridium: https://gobs-front-end-projects.vercel.app/iridium/html/home.html
+  Appx Lander: https://gobs-front-end-projects.vercel.app/appxlander/html/home.html
+  ...
+}
 
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gobsruiz)](https://github.com/anuraghazra/github-readme-stats)
