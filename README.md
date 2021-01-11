@@ -12,7 +12,7 @@ My resume: https://my-resume-theta.vercel.app/
 <br>
 Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
 <br>
-&nbsp;&nbspDG: https://gobs-front-end-projects.vercel.app/DG/html/home.html
+&nbsp;&nbsp;DG: https://gobs-front-end-projects.vercel.app/DG/html/home.html
 <br>
 &nbsp;&nbsp;Iridium: https://gobs-front-end-projects.vercel.app/iridium/html/home.html
 <br>
