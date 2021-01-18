@@ -21,6 +21,8 @@ Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
 &nbsp;&nbsp;...
 <br>
 }
+<br>
+Isaac Party: https://isaac-party-website.vercel.app/
 
 ### GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gobsruiz)](https://github.com/anuraghazra/github-readme-stats)
