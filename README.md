@@ -12,11 +12,7 @@ My resume: https://my-resume-theta.vercel.app/
 <br>
 Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
 <br>
-&nbsp;&nbsp;DG: https://gobs-front-end-projects.vercel.app/DG/html/home.html
-<br>
-&nbsp;&nbsp;Iridium: https://gobs-front-end-projects.vercel.app/iridium/html/home.html
-<br>
-&nbsp;&nbsp;Appx Lander: https://gobs-front-end-projects.vercel.app/appxlander/html/home.html
+&nbsp;&nbsp;Epic Games: https://gobs-front-end-projects.vercel.app/epicGames2.0/html/home.html
 <br>
 &nbsp;&nbsp;...
 <br>
