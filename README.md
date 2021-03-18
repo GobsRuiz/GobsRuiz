@@ -10,15 +10,17 @@ Portfolio: https://gabriel-eduardo-ruiz-portifolio-9jz1o2yus.vercel.app/html/hom
 <br>
 My resume: https://my-resume-theta.vercel.app/
 <br>
-Front-End projects: https://gobs-front-end-projects.vercel.app/ : {
+Front-End projects: https://github.com/GobsRuiz/FrontEnd-Projects : {
 <br>
 &nbsp;&nbsp;Epic Games: https://gobs-front-end-projects.vercel.app/epicGames2.0/html/home.html
+<br>
+&nbsp;&nbsp;Layout: https://gobs-front-end-projects.vercel.app/layout/home.html
 <br>
 &nbsp;&nbsp;...
 <br>
 }
 <br>
-CopyWebsites-Projects https://copy-websites-projects.vercel.app/ : {
+CopyWebsites-Projects https://github.com/GobsRuiz/CopyWebsites-Projects : {
 <br>
 &nbsp;&nbsp;Hyperspace: https://copy-websites-projects.vercel.app/Hyperspace/home.html
 <br>
