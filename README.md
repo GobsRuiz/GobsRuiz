@@ -12,7 +12,7 @@ My resume: https://my-resume-theta.vercel.app/
 <br>
 Front-End projects: https://github.com/GobsRuiz/FrontEnd-Projects : {
 <br>
-&nbsp;&nbsp;Epic Games: https://gobs-front-end-projects.vercel.app/epicGames2.0/html/home.html
+&nbsp;&nbsp;Circular: https://gobs-front-end-projects-bu7q1sq95-gobsruiz.vercel.app/circular/home.html
 <br>
 &nbsp;&nbsp;Layout: https://gobs-front-end-projects.vercel.app/layout/home.html
 <br>
