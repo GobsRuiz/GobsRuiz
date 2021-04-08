@@ -28,6 +28,8 @@ CopyWebsites-Projects https://github.com/GobsRuiz/CopyWebsites-Projects : {
 <br>
 }
 <br>
+Cantacom-ProjectForDeveloperVacancy: https://cantacom-project-for-developer-vacancy.vercel.app/1-htmlCssJs/index.html
+<br>
 Isaac Party: https://isaac-party-website.vercel.app/
 
 ### GitHub Stats
