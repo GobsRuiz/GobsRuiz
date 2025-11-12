@@ -1,22 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I'm Gabriel Ruiz
 
+💻 **Fullstack Developer** passionate about building clean, scalable, and user-focused web applications.  
+🌍 Based in São Paulo, Brazil | 25 years old  
+🚀 Always exploring new technologies to create elegant and performant digital experiences.
 
-### GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gobsruiz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gobsruiz&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🧠 Tech Stack
 
-<!--
-**GobsRuiz/GobsRuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend:** Vue, Nuxt, React, TypeScript, TailwindCSS  
+**Backend:** Node.js, Express, MongoDB, Firebase  
+**DevOps:** Vercel, Docker, GitHub Actions  
+**Others:** REST APIs, Authentication, Animations (Framer Motion)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GobsRuiz&show_icons=true&theme=tokyonight&hide_border=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GobsRuiz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🧩 Featured Projects
+
+🔹 [**GobsVault**](https://github.com/GobsRuiz/GobsVault) — A TypeScript-based vault for secure data management.  
+🔹 [**MyDrugs**](https://gobsruiz.com.br/projects/mydrugs) — Inspired by *“How to Sell Drugs Online (Fast)”*, built with Nuxt 3 + Framer Motion.  
+🔹 [**Portfolio**](https://gobsruiz.com.br) — My personal website showcasing projects and skills.
+
+---
+
+### 🌐 Find me online
+
+[💼 Portfolio](https://gobsruiz.com.br) • [📸 Instagram](#) • [💻 LinkedIn](#) • [🐙 GitHub](https://github.com/GobsRuiz)
+
+---
+> “Clean code, clean mind.”
