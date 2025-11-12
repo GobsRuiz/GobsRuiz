@@ -46,8 +46,8 @@
 ### 🌐 Find me online
 
 - 💼 [Portfolio](https://gobsruiz.com.br)  
-- 💻 [LinkedIn](#)  
-- 📸 [Instagram](#)
+- 💻 [LinkedIn](https://www.linkedin.com/in/gabriel-eduardo-ruiz-82235a239/)  
+- 📸 [Instagram](https://www.instagram.com/gobs.ruiz.dev/)
 
 ---
 
