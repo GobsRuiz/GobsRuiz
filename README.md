@@ -37,6 +37,7 @@
 ### 🧩 Featured Projects
 
 🔹 **[GobsVault](https://github.com/GobsRuiz/GobsVault)**
+
 🔹 **[Portfolio](https://gobsruiz.com.br)** — My personal website showcasing my work, projects, and experiments.  
 
 *(More projects coming soon...)*
